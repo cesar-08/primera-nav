@@ -1,0 +1,16 @@
+body {
+    background-color: #ededed;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.select {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    
+}
+
